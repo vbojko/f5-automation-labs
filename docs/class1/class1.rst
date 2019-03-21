@@ -4,7 +4,7 @@ Class 1: Introduction to Automation & Orchestration
 This introductory class covers the following topics:
 
 - Imperative Automation using the F5 BIG-IP iControl REST API
-- Service Abstraction and Automation using F5 App Services 3 Extension (AS3)
+- Service Abstraction and Automation using F5 Application Services 3 Extension (AS3)
 - Building Declarative Interfaces with AS3 and Ansible Tower
 - BIG-IQ Analytics and AS3: Application Templates & Deployment
 
